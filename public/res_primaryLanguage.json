@@ -1,118 +1,235 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi!",
+      "description": "👋 I'm Adam Howells. I’m a software developer currently undergoing a master's degree. I currently work in the civil service where I create and maintain internal services within an agile environment at the DVLA. The technlogies I primarily work with at the moment is Serverless + AWS, Spring framework, and Ruby.",
+      "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
+      "preference": "I’m looking for a graduate role abroad, preferably in the Netherlands, although I am open to work anywhere for the right opportunity.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
+        "education": "Education",
+        "expertise": "Expertise",
         "experience": "Experience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "OracyBox",
+        "startDate": "2019",
+        "description": "A blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/oracybox/p1.jpg",
+          "images/portfolio/oracybox/p2.png",
+          "images/portfolio/oracybox/p3.jpeg",
+          "images/portfolio/oracybox/p4.jpg"
         ],
-        "url": "",
+        "url": "https://adamisafk.github.io/OracyBox/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-swift-plain",
+            "name": "Swift"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-laravel-plain",
+            "name": "Laravel"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Fake News Quiz",
+        "startDate": "2020",
+        "description": "Using PolitiFact data, this a simple react application which aims to test your ability to identify which of two news articles is fake and real. Loading may take some time due to using a free-tier dyno in Heroku.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/fakenews-quiz/p1.png",
+          "images/portfolio/fakenews-quiz/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://fakenews-quiz.adamhowells.co.uk/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Tetris JS",
+        "startDate": "2020",
+        "description": "I wanted to see if I could develop Tetris (using the official rule book) using only HTML, CSS, and JavaScript. Loading may take some time due to using a free-tier dyno in Heroku.",
+        "images": [
+          "images/portfolio/tetris-js/p1.jpg",
+          "images/portfolio/tetris-js/p2.jpg"
+        ],
+        "url": "https://tetris.adamhowells.co.uk/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
         ]
+      }
+    ],
+    "education": [
+      {
+        "company": "University of Wales Trinity Saint David",
+        "title": "Master's Degree",
+        "description": "Currently on my second semester where I will soon be tackling the dissertation project.",
+        "years": "2020 - 2022",
+        "mainTech": [
+          "Computer Software Engineering"
+        ],
+        "technologies": [
+          "Object-Oriented Programming",
+          "Web Development",
+          "Web Services",
+          "Programming and Software Testing",
+          "Agile Software Engineering Principles",
+          "Database Systems",
+          "More to come..."
+        ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+        "company": "University of Wales Trinity Saint David",
+        "title": "Bachelor's Degree",
+        "description": "For my dissertation I researched and developed a blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
+        "years": "2017 - 2020",
+        "mainTech": [
+          "Applied Computing"
         ],
-        "url": "https://github.com",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+          "Advanced Web Development",
+          "Advanced Routing and Switching",
+          "Big Data (Data Science)",
+          "Wide Area Networks",
+          "Application Development",
+          "Business and Web",
+          "Project Management",
+          "Enterprise"
+        ]
+      },
+      {
+        "company": "Coleg Sir Gar",
+        "title": "L3 Extended Diploma | A Level",
+        "description": "My entry into the world of IT. I did a 2-year BTEC L3 diploma in Computing where I was introduced to programming and development, and a whole range of other relevent topics including transferrable skills. In conjuction with this I also undertook an A level in Government and Politics.",
+        "years": "2015 - 2017",
+        "mainTech": [
+          "Computing | Government and Politics"
+        ],
+        "technologies": [
+          "Event-Driven Programming",
+          "Database Design",
+          "Web Development",
+          "Computer Systems Architecture",
+          "Money and Finance Skills (Ex. Diploma L1)",
+          "IT Users (Ex. Diploma L1)",
+          "Welsh Baccalaureate Adv. Global Citizenship and Enterprise"
+        ]
+      },
+      {
+        "company": "Bryngwyn Comprehensive School",
+        "title": "GCSE's in Various Subjects",
+        "description": "",
+        "years": "2015 - 2017",
+        "mainTech": [
+          "Computing | Government and Politics"
+        ],
+        "technologies": [
+          "ICT (A)",
+          "Mathematics (B)",
+          "Design and Tech Graphic Products (B)",
+          "English Literature (B)",
+          "Welsh Second Language (B)",
+          "BTEC Music (Distinction, Equiv. to 2 GCSEs)",
+          "English Language (C)",
+          "Additional Science (C)",
+          "Core Science (C)",
+          "Geography (C)"
         ]
       }
     ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "Full-Stack Web Development",
+          "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps include HTML/CSS/JS, Java (+ Spring Framework), NodeJS (+ Express), Serverless (+ AWS Lambda), PHP (+ Laravel/Symfony), React (+ Redux), and Ruby on Rails. I'm able to create and maintain APIs, web servers, and dockerised environments."
+        },
+        {
+          "title": "Database Systems",
+          "description": "I have a detailed level of understanding relational database management systems. I have experience with normalisation and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+        },
+        {
+          "title": "E-Commerce",
+          "description": "I have knowledge in business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, CMS such as Wordpress, and marketing include social media, email, and blogging."
+        },
+        {
+          "title": "Data Science",
+          "description": "I understand the difference between traditional and big data and big data strategies (aims, policies, plans, actions). I know how you're able to extract value (useful analysis) from large volumes of data from many data sources. I have experience with working with Apache Hadoop."
+        },
+        {
+          "title": "Project Management",
+          "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
+        },
+        {
+          "title": "Networking",
+          "description": "From routing and switching to wide area networks, I understand networking theory and the application of networks. Various networking modules allowed me to learn from Cisco, and take part in CCNA backed exams."
+        }
+      ]
+    },
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "DVLA",
+        "title": "Graduate Software Engineer",
+        "description": "I work at the DVLA as part of it's MSc graduate development programme. My current role is a trainee engineer where I'm a part of a fast paced and encouraging workforce. My responsibilities includes:",
+        "responsibilities" : [
+          "Providing system support for all environments including our production teams",
+          "Working on technical implementation of apps and infrastructure",
+          "Being involved in with larger in-house projects to meet our customer's requirements,",
+          "Supporting the creation of standardised documentation",
+          "Developing skills and understanding of DVLA's tech estate and the process",
+          "Developing, testing and supporting current systems",
+          "Using automated test tools"
+        ],
+        "years": "09.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Serverless"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Agile Development",
+          "DevOps",
+          "Serverless Stack",
+          "AWS",
+          "Spring Framework",
+          "Java",
+          "Unit Testing",
+          "Ruby on Rails"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "McDonald's",
+        "title": "Crew Member",
+        "description": "In a fast-paced and dynamic environment, I worked among a team of crew members to deliver a service at the best possible quality to all customers. From customer service to cooking, the responsibilities of a crew member is flexbile depending on the given situation.",
+        "responsibilities": [
+
+        ],
+        "years": "08.2018 - 05.2019",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          ""
         ]
       }
     ]
-  }
+}

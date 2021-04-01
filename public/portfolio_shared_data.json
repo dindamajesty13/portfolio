@@ -1,17 +1,22 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Adam Howells",
+      "titles": [ "Full-stack Developer", "Web Developer", "DevOps Developer", "Serverless Developer", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/adamisafk",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/adam-howells-7451b7172/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:adamisafk@gmail.com",
+          "class": "fa fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
@@ -29,38 +34,88 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "90"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "70"
+        },
+        {
+          "name": "Rails",
+          "class": "devicon-rails-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "85"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-plain",
           "level": "65"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain",
+          "level": "60"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
           "level": "60"
         }
       ]

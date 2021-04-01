@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import angularIcon from "@iconify/icons-logos/spring";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import vueIcon from "@iconify/icons-logos/ruby";
 
 class About extends Component {
   render() {
@@ -12,7 +12,9 @@ class About extends Component {
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
-      var about = this.props.resumeBasicInfo.description;
+      var about1 = this.props.resumeBasicInfo.description;
+      var about2 = this.props.resumeBasicInfo.philosophy;
+      var about3 = this.props.resumeBasicInfo.preference;
     }
 
     return (
@@ -77,10 +79,16 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello}</span>
                     <br />
                     <br />
-                    {about}
+                    {about1}
+                    <br />
+                    <br />
+                    {about2}
+                    <br />
+                    <br />
+                    {about3}
                   </div>
                 </div>
               </div>
