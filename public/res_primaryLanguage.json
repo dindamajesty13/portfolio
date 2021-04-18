@@ -79,6 +79,60 @@
             "name": "JavaScript"
           }
         ]
+      },
+      {
+        "title": "Personalised License Plate Management System",
+        "startDate": "2021",
+        "description": "A full-stack application created for the Web Services and Web Development joint assignment. Uses Spring for the back-end, react for the front-end, and MySQL for the database including Redis for NoSQL caching. Entirely wrapped in docker containers.",
+        "images": [
+          "images/portfolio/lpms/p1.jpg",
+          "images/portfolio/lpms/p2.png",
+          "images/portfolio/lpms/p3.jpeg",
+          "images/portfolio/lpms/p4.jpg"
+        ],
+        "url": "https://github.com/adamisafk/personalised-plates",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain-wordmark",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React.JS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.JS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Bootstrap"
+          },
+          {
+            "class": "devicon-nginx-original",
+            "name": "Nginx"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          }
+        ]
       }
     ],
     "education": [
