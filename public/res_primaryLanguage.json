@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi!",
-      "description": "👋 I'm Adam Howells. I’m a software developer currently undergoing a master's degree. I currently work in the civil service where I create and maintain internal services within an agile environment at the DVLA. The technlogies I primarily work with at the moment is Serverless + AWS, Spring framework, and Ruby.",
+      "description": "👋 I'm Adam Howells. I’m a software developer currently undertaking a master's degree. I currently work in the civil service where I create and maintain internal services within an agile environment at the DVLA. The technlogies I primarily work with at the moment is Serverless + AWS, Spring framework, and Ruby.",
       "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem solving and am quick to learn with good communication skills and the ability to work efficiently either individually or as part of a team in a professional environment. I’m committed to working in the IT industry, a skill and subject I am deeply passionate in.",
       "preference": "I’m looking for a graduate role abroad, preferably in the Netherlands, although I am open to work anywhere for the right opportunity.",
       "section_name": {
@@ -193,11 +193,11 @@
       },
       {
         "company": "Bryngwyn Comprehensive School",
-        "title": "GCSE's in Various Subjects",
+        "title": "GCSEs",
         "description": "",
         "years": "2010 - 2015",
         "mainTech": [
-          "Computing | Government and Politics"
+          "Various Subjects"
         ],
         "technologies": [
           "ICT (A)",
